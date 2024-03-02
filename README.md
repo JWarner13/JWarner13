@@ -27,22 +27,7 @@
 - <b>Amazon Web Services</b>
   - [Introduction to AWS Identity and Access Management](https://github.com/InfoSecDion/Introduction-to-AWS-Identity-and-Access-Management-IAM)
   - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM) 
-
-- <b>Threat Detection</b>
-  - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-lab-w-edr-ca96712d3ec9)
-  - [Detection & Monitoring with Splunk & Snort](https://medium.com/@InfoSecDion/detection-and-monitoring-w-splunk-snort-c93b5dd01229)
-
-- <b>Vulnerability Management</b>
-  - [Nessus Basics Tutorial](https://medium.com/@InfoSecDion/nessus-tutorial-8aca58424b71) 
-
-- <b>Network and Malware Analysis</b>
-  - [Wireshark Traffic and Malware Analysis](https://medium.com/@InfoSecDion/wireshark-network-malware-analysis-ff784ee98206)
     
-- <b>Threat Intelligence</b>
-  - [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel)
- 
-- <b>Offensive Security</b>
-  - [Coding Dojo Graduation Capstone (Penetration Test)](https://github.com/InfoSecDion/Ethical-Hacking-Lab-Final-Exam)
 
 <h2>💻 Information Technology Projects:</h2>
 
