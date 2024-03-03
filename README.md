@@ -24,10 +24,6 @@
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/InfoSecDion/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
   - [Azure Vulnerability Management Lab (OpenVAS)](https://github.com/InfoSecDion/OpenVAS)
 
-- <b>Amazon Web Services</b>
-  - [Introduction to AWS Identity and Access Management](https://github.com/InfoSecDion/Introduction-to-AWS-Identity-and-Access-Management-IAM)
-  - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM) 
-    
 
 <h2>💻 Information Technology Projects:</h2>
 
@@ -36,15 +32,5 @@
    - [Active Directory Home Lab](https://github.com/InfoSecDion/Active-Directory-Home-Lab)
   - [The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management](https://github.com/InfoSecDion/The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management)
   - [Configuring Active Directory within Azure VMs](https://github.com/InfoSecDion/Configuring-Active-Directory-with-Azure-VM-s)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/InfoSecDion/Network-Security-Groups-and-inspecting-traffic-between-Azure-Virtual-Machines-NSG-s-)
-  - [Configuring DNS settings within Azure VMs](https://github.com/InfoSecDion/Configuring-DNS-settings-within-Azure)
-  - [Network File Shares and Permissions within Azure VMs](https://github.com/InfoSecDion/Network-file-shares-and-positions-within-Azure-VMs)
-  - [VPN: VPN Setup and Usage (Proton VPN)](https://github.com/InfoSecDion/VPN-setup)
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-
-   - [osTicket: Prerequisites and Installation](https://github.com/InfoSecDion/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/InfoSecDion/Post-installation-configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/InfoSecDion/Ticket-life-cycle-examples)
     
 
